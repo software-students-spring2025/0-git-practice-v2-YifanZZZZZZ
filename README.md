@@ -1,2 +1,8 @@
-# Git Practice
-A simple project to practice a few git/github workflows.  Replace the contents of this file with the contents indicated in the [instructions](./instructions.md).
+# 25SpringSWE_Ex1
+## The link to a website 
+https://www.csdn.net/
+
+## Why interesting website
+It's a community where people share their problems and solutions when facing different coding or software engineering issues. 
+It is super helpful when I have any questions. I really like it! 
+
